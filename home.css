@@ -98,10 +98,8 @@ h3 {
 }
 
 /* sidebar */
-aside {float: left; width: 230px}
 aside article a {
     display: block;
-    /*change <a> tag(inline element) to a block element */
     padding: 10px;
 }
 
