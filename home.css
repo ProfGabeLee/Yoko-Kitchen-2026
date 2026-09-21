@@ -19,7 +19,6 @@ body {
 .wrapper {
     width: 940px;
     margin: 20px auto;
-    /* 20px on top/bottom and equal margin for left/right */
     border: 2px solid #3e773e;
     background-color: #fff;
 }
@@ -99,6 +98,7 @@ h3 {
 }
 
 /* sidebar */
+aside {float: left; width: 230px}
 aside article a {
     display: block;
     /*change <a> tag(inline element) to a block element */
